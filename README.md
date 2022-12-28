@@ -1,0 +1,2 @@
+# beedns
+simple dns server 
